@@ -53,9 +53,7 @@ JDK 安裝，請參考網路上的資源，只要是現行的 LTS 版本都可�
 
 - 良葛格的 Java 筆記
 [https://openhome.cc/zh-tw/java/](https://openhome.cc/zh-tw/java/)
-- Java SE 6 技術手冊
-****[https://github.com/JustinSDK/JavaSE6Tutorial](https://github.com/JustinSDK/JavaSE6Tutorial)
-- Java SE 17 技術手冊
-****[https://www.tenlong.com.tw/products/9786263241435](https://www.tenlong.com.tw/products/9786263241435)
+- Java SE 6 技術手冊 [https://github.com/JustinSDK/JavaSE6Tutorial](https://github.com/JustinSDK/JavaSE6Tutorial)
+- Java SE 17 技術手冊 [https://www.tenlong.com.tw/products/9786263241435](https://www.tenlong.com.tw/products/9786263241435)
 - [《Thinking in Java》](https://web.archive.org/web/20120717024936fw_/http://jjhou.boolan.com/jjtbooks-thinking-in-java-2e.htm) 是由侯捷等人翻譯自 [Bruce Eckel](https://en.wikipedia.org/wiki/Bruce_Eckel) 著作。網站中可下載正體中文版的試閱檔案 **tij2-c-20020711.pdf**，內容包含 1 至 9 章，及附錄部分。
 
